@@ -4,7 +4,7 @@ cognito-hfs
 
 This is a reverse engineering of the JavaScript SDK for AWS cognito-idp for python.
 
-.. image:: https://gph.is/1kvGmrP
+.. image:: https://media.giphy.com/media/6NazlpkFlqYpy/giphy.gif
 
 
 Quickstart
